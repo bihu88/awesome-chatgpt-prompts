@@ -10,51 +10,13 @@
 
 **Download ChatGPT Desktop App**: **[macOS](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg)** / **[Windows](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi)** / **[Linux](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb)**
 
-> ℹ️ **NOTE:** Sometimes, some of the prompts may not be working as you expected or may be rejected by the AI. Please try again, start a new thread, or log out and log back in. If these solutions do not work, please try rewriting the prompt using your own sentences while keeping the instructions same.
+> ℹ️ **注意：** 有时候，某些提示可能不会按照您预期的方式工作，或者可能被AI拒绝。请尝试再次尝试，开始新的对话，或者注销并重新登录。如果这些解决方案不起作用，请尝试用您自己的句子重写提示，同时保持相同的指示。### 想要编写有效的提示？我撰写了一本免费的电子书，名为 **“ChatGPT提示的艺术：编写清晰有效提示的指南”**。📖 **[阅读免费电子书](https://fka.gumroad.com/l/art-of-chatgpt-prompting)**### 想要部署您自己的提示应用？[Steamship](https://www.steamship.com/build?utm_source=github&utm_medium=explainer&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts) 的团队构建了一个框架来托管和分享您的GPT应用。他们赞助此存储库，为您提供免费（每天最多500次调用）访问最新的GPT模型。
 
-### Want to Write Effective Prompts?
-
-I've authored a free e-book called **"The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts"**.
-
-📖 **[Read the free e-book](https://fka.gumroad.com/l/art-of-chatgpt-prompting)**
-
-### Want to deploy your own Prompt App?
-
-The folks at [Steamship](https://www.steamship.com/build?utm_source=github&utm_medium=explainer&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts) built a framework to host and share your GPT apps. They're sponsoring this repo by giving you free (up to 500 calls per day) access to the latest GPT models.  
-
-👷‍♂️ **[Build your own GPT Prompt App](https://www.steamship.com/build?utm_source=github&utm_medium=explainer&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts)**
-
-### Want to Learn How to Make Money using ChatGPT Prompts?
-
-I've authored an e-book called **"How to Make Money with ChatGPT: Strategies, Tips, and Tactics"**.
-
-📖 **[Buy the e-book](https://fka.gumroad.com/l/how-to-make-money-with-chatgpt)**
+👷‍♂️ **[创建您自己的GPT提示应用](https://www.steamship.com/build?utm_source=github&utm_medium=explainer&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts)**### 想学习如何使用ChatGPT提示赚钱吗？我撰写了一本电子书，名为**“如何利用ChatGPT赚钱：策略、技巧和战术”**。📖 **[购买电子书](https://fka.gumroad.com/l/how-to-make-money-with-chatgpt)**---## 其他提示资源### 想学习如何为Midjourney AI编写图像提示吗？我撰写了一本电子书，名为**“Midjourney AI的艺术：从文本创建图像的指南”**。📖 **[阅读电子书](https://fka.gumroad.com/l/the-art-of-midjourney-ai-guide-to-creating-images-from-text)**
 
 ---
 
-## Other Prompting Resources
-
-### Want to Learn How to write image prompts for Midjourney AI?
-
-I've authored an e-book called **"The Art of Midjourney AI: A Guide to Creating Images from Text"**.
-
-📖 **[Read the e-book](https://fka.gumroad.com/l/the-art-of-midjourney-ai-guide-to-creating-images-from-text)**
-
----
-
-### Using ChatGPT Desktop App
-
-The _unofficial_ ChatGPT desktop application provides a convenient way to access and use the prompts in this repository. With the app, you can easily import all the prompts and use them with slash commands, such as `/linux_terminal`. This feature eliminates the need to manually copy and paste prompts each time you want to use them.
-
-> **Desktop App is an unofficial [open source project by @lencx](https://github.com/lencx/ChatGPT). It's a simple wrapper for ChatGPT web interface with powerful extras.**
-
-<img width="400" alt="Screenshot 2022-12-19 at 19 13 41" src="https://user-images.githubusercontent.com/196477/208471439-877c2bcf-93ec-4ad9-9cb0-7e4ed7b1756a.png">
-
----
-
-### Create your own prompt using AI
-
-[Merve Noyan](https://huggingface.co/merve) created an exceptional [ChatGPT Prompt Generator App](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator), allowing users to generate prompts tailored to their desired persona. The app uses this repository as its training dataset.
+### 使用ChatGPT桌面应用_非官方_的ChatGPT桌面应用程序提供了一种便捷的方式来访问和使用此存储库中的提示。借助该应用，您可以轻松导入所有提示并使用斜杠命令（如`/linux_terminal`）来使用它们。这个功能消除了每次使用提示时手动复制粘贴的需求。> **桌面应用是由@lencx开发的非官方[开源项目](https://github.com/lencx/ChatGPT)。它是一个简单的ChatGPT网页界面封装器，具有强大的额外功能。**<img width="400" alt="Screenshot 2022-12-19 at 19 13 41" src="https://user-images.githubusercontent.com/196477/208471439-877c2bcf-93ec-4ad9-9cb0-7e4ed7b1756a.png">---### 使用AI创建您自己的提示[Merve Noyan](https://huggingface.co/merve)创建了一个非凡的[ChatGPT提示生成器应用](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator)，允许用户生成定制的、符合他们期望角色的提示。该应用以此存储库为其训练数据集。
   
 ---
 
